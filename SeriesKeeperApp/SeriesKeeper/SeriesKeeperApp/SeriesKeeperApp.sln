@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesKeeperApp", "SeriesKeeperApp\SeriesKeeperApp.csproj", "{087DC27F-250F-4645-B7AF-E9849690BBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesKeeperCore", "SeriesKeeperCore\SeriesKeeperCore.csproj", "{267CAA21-3B82-4965-BD3E-113215986DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087DC27F-250F-4645-B7AF-E9849690BBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087DC27F-250F-4645-B7AF-E9849690BBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087DC27F-250F-4645-B7AF-E9849690BBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087DC27F-250F-4645-B7AF-E9849690BBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267CAA21-3B82-4965-BD3E-113215986DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267CAA21-3B82-4965-BD3E-113215986DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267CAA21-3B82-4965-BD3E-113215986DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267CAA21-3B82-4965-BD3E-113215986DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6133BDAB-8F2C-4803-8BF6-CF3D9C5F7F70}
+	EndGlobalSection
+EndGlobal
